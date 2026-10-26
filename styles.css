@@ -1,0 +1,18 @@
+body{
+text-align: center;
+}
+  h1 {
+	color: blue;
+	font-size: 50px;
+  }
+  #map-container {
+	position: relative;
+  }
+
+  #map {
+	width: 80%;
+	height: auto;
+  }
+  #world{
+	background-color: rgb(174, 186, 190);
+  }
